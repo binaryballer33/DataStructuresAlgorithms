@@ -1,5 +1,6 @@
 # DataStructuresAlgorithms
 
+```
 Repository for Coding Interview Questions
 
 Usefull Links:
@@ -11,3 +12,4 @@ Technical Interview Handbook: https://www.techinterviewhandbook.org/best-practic
 Blind75 LeetCode: https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions
 Blind75 Blind: https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Questions-to-Save-Your-Time-OaM1orEU
 Top Ten Algorithms: https://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/
+```
